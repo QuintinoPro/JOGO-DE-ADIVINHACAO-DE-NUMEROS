@@ -1,7 +1,7 @@
 <h1 align="center">jogo de Adivinhação</h1>
 
 <p align="center">
- <img src="./Capturar.PNG">
+ <img src="./Captura de tela 2023-09-22 145226.png">
 </p>
 
 <br>
